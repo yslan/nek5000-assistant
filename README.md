@@ -32,7 +32,8 @@ offered by the publication platform, subject to that platform's availability.
 Version 0.3.5 preserves the 0.3.4 instructions and reference image, and adds
 the supplied cube logo and public listing metadata. The private installation
 has not been changed. The public ChatGPT listing is not yet submitted or approved.
-The usage terms in `TERMS-DRAFT.md` await publisher approval.
+The publisher-approved [terms](https://yslan.github.io/nek5000-assistant/terms.html)
+are published alongside the privacy policy.
 
 The repository includes `plugin.json`, a Codex compatibility manifest, skills,
 assets, and GitHub Pages source under `docs/`.

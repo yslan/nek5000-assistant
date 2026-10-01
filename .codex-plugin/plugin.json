@@ -17,7 +17,8 @@
     "logo": "assets/nek5000-logo.png",
     "composerIcon": "assets/nek5000-logo.png",
     "supportURL": "https://yslan.github.io/nek5000-assistant/support.html",
-    "privacyPolicyURL": "https://yslan.github.io/nek5000-assistant/privacy.html"
+    "privacyPolicyURL": "https://yslan.github.io/nek5000-assistant/privacy.html",
+    "termsOfServiceURL": "https://yslan.github.io/nek5000-assistant/terms.html"
   },
   "name": "gpt-8c90a680f182e94365da6c32a1cdcbb4",
   "version": "0.3.5",

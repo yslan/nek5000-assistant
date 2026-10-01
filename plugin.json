@@ -24,14 +24,15 @@
         "logo": "assets/nek5000-logo.png",
         "composerIcon": "assets/nek5000-logo.png",
         "supportURL": "https://yslan.github.io/nek5000-assistant/support.html",
-        "privacyPolicyURL": "https://yslan.github.io/nek5000-assistant/privacy.html"
+        "privacyPolicyURL": "https://yslan.github.io/nek5000-assistant/privacy.html",
+        "termsOfServiceURL": "https://yslan.github.io/nek5000-assistant/terms.html"
       },
       "review": {
         "commerce": false
       },
       "publication": {
         "countries": [],
-        "release_notes": "Prepared public listing, publisher and worldwide availability metadata, supplied cube logo, and support/privacy pages. Preserved existing Nek5000 instructions and reference materials."
+        "release_notes": "Public-release package with supplied cube logo, publisher and worldwide availability metadata, and published website, support, privacy policy, and approved terms. Preserved existing Nek5000 instructions and reference materials."
       }
     }
   },

@@ -19,6 +19,7 @@ is being prepared; availability in the directory is not yet approved.
 - [Source repository](https://github.com/yslan/nek5000-assistant)
 - [Support](support.html)
 - [Privacy policy](privacy.html)
+- [Terms of service](terms.html)
 - [Official Nek5000 documentation](https://nek5000.github.io/NekDoc/)
 
 No institutional endorsement is implied.
